@@ -1,14 +1,9 @@
 # Assignment07: Functions 
 **Name:** EUtama
-<br></br>
 **Date:** 12/02/2020
-<br></br>
 **Class:** Foundations of Databases
-<br></br>
 **Assignment:** 07
-<br></br>
 **Github link:** https://github.com/utamae92/DBFoundations-Module7
-<br></br>
 
 ## Functions
 ### Introduction
